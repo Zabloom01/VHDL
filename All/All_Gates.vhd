@@ -1,20 +1,20 @@
 ----------------------------------------------------------------------------------
 -- Company: 
--- Engineer: 
+-- Engineer: Zach B.
 -- 
 -- Create Date: 02/10/2025 01:10:24 PM
 -- Design Name: 
 -- Module Name: All_Gates - Behavioral
--- Project Name: 
--- Target Devices: 
--- Tool Versions: 
--- Description: 
+-- Project Name: All_Gates
+-- Target Devices: NA
+-- Tool Versions: Using Vivado 2024.2
+-- Description: Example code for all logic gates using VHDL
 -- 
--- Dependencies: 
+-- Dependencies: NA
 -- 
--- Revision:
+-- Revision: A
 -- Revision 0.01 - File Created
--- Additional Comments:
+-- Additional Comments:  This is an example code I created for simulating all logic gates.
 -- 
 ----------------------------------------------------------------------------------
 
